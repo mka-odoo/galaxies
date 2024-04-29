@@ -1,0 +1,4 @@
+# Ignore specific patterns
+MilkyWay*  # Assumes files/directories related to Milky Way start with 'MilkyWay'
+analysis/data/
+*.txt
